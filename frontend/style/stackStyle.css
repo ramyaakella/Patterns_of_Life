@@ -1,0 +1,39 @@
+/* body {
+    font-family: 'Arial', sans-serif;
+} */
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+.axis text {
+    font-size: 12px;
+}
+.legend text {
+    font-size: 14px;
+    font-weight: bold;
+}
+.bar:hover {
+    opacity: 0.7;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 8px;
+    font-size: 14px;
+    background: lightsteelblue;
+    border: 0px solid gray;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.svgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* or any specific height */
+}

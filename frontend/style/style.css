@@ -1,0 +1,179 @@
+body {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    line-height: 1.5;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+#sidebar {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#speed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#speed .togglebutton {
+    padding: 8px 16px;
+    margin-right: 8px;
+    background-color: #e0e0e0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+#speed .togglebutton:last-child {
+    margin-right: 0;
+}
+
+#speed .togglebutton:hover {
+    background-color: #d5d5d5;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
+
+#speed .togglebutton.current {
+    background-color: #2196F3;
+    color: #fff;
+}
+
+#note {
+    color: #333;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+    text-align: center;
+    width: auto;
+    margin-top: 20px;
+}
+
+.clr {
+    clear: both;
+}
+
+#charts-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align to the top if charts have different heights */
+    flex-wrap: wrap; /* Allow wrapping if the container is too narrow */
+}
+
+#chart, #chart2 {
+    flex: 1; /* Each chart will take up an equal amount of space */
+    max-width: calc(45% - 20px); /* Adjust max-width to control the size */
+    margin: 10px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
+
+#chartTitle1, #chartTitle2
+{
+    flex: 1; /* Each chart will take up an equal amount of space */
+    max-width: auto; /* Adjust max-width to control the size */
+    max-width: calc(45% - 20px);
+    margin: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+    border-radius: 10px; /* Rounded corners */
+}
+
+#current_time {
+    width: auto;
+    font-size: 40px;
+    font-weight: 700; /* Bolder font for a modern look */
+    color: #333;
+    background-color: #ffffff; /* White background for the clock */
+    padding: 16px 24px;
+    border-radius: 20px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Shadow for depth */
+    margin-bottom: 20px;
+}
+
+/* Media query for smaller screens to stack charts vertically */
+@media (max-width: 768px) {
+    #chart, #chart2 {
+        max-width: 100%; /* Each chart takes full width on small screens */
+        margin: 10px 0; /* Adjust margin for vertical layout */
+    }
+}
+
+
+#controlPanelBody {
+    width: 100%; /* Full width */
+    transition: top 0.6s; /* Smooth transition for moving to the top */
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    z-index: 1000; /* Keeps it above other content */
+}
+
+#additionalOptions {
+    border: 1px solid #BDBDBD; /* Light grey border */
+    width: auto;
+    padding: 10px;
+    border-radius: 10px; /* Slightly rounded corners */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4); /* Subtle shadow for depth */
+    background-color: #FFFFFF; /* White background */
+    transition: box-shadow 0.3s ease; /* Smooth transition for hover effect */
+}
+
+#additionalOptions:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Deeper shadow on hover */
+}
+
+
+.form-check-label {
+    border-radius: 10px; /* Rounded corners */
+    transition: border 0.3s ease; /* Smooth transition for border changes */
+    border: 1px solid transparent; /* Invisible border by default */
+}
+
+/* Style for label when the associated radio button is checked */
+.form-check-input:checked + .form-check-label {
+    padding: 8px;
+    font-weight: bold;
+    border: 1px solid #6200EA; /* Material Design primary color */
+}
+
+.custom-material-color {
+    background-color: #673ab7; /* Material Design Blue Grey 500 */
+}
+
+.btn.custom-material-color2 {
+    background-color: #c60028; /* Material Design Teal 500 */
+    color: #fff; /* White text for better readability */
+    border-color: #c60028; /* Slightly darker border for depth (optional) */
+}
+
+.btn.custom-material-color2:hover, .btn.custom-material-color2:focus {
+    background-color: #ff4569; /* Slightly darker on hover/focus */
+    color: #fff; /* White text for better readability */
+    border-color: #930320; /* Optional: Change border on hover/focus */
+}
+
+
+
+
+
+
+
+
+
+
+

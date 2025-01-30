@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VAST Challenge 2022: Patterns of Life</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css">
+
+    <link rel="stylesheet" href="style/style.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="style/stackStyle.css" type="text/css" media="screen" />
+
+    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7626174/696048/css/fonts.css" />
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js2/main.js"></script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"/>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-geo.v3.min.js"></script>
+
+    <script src="js/main.js" type="module"></script>
+    <script src="js2/stackbar.js" type="module"></script>
+    <link rel="stylesheet" href="css/style.css"/>
+
+
+    <script>
+        function showAdditionalOptions(option) {
+
+            var container = document.getElementById('additionalOptions');
+            var stackBarCard = document.getElementById('stackBarCard');
+            var lineTrendCard = document.getElementById('lineTrendCard');
+
+            var content = '';
+
+            stackBarCard.style.display = 'none';
+            lineTrendCard.style.display = 'none';
+
+            for (let i = 1; i <= 3; i++) {
+                var taskCard = document.getElementById(`task${i}Card`);
+                if (taskCard) {
+                    taskCard.style.display = 'none';
+                }
+            }
+
+            switch (option) 
+            {
+                case 'trends':
+                    console.log("Trends Clicked");
+                    lineTrendCard.style.display = '';
+                    break;
+
+                case 'expenditure':
+                    console.log("Expenditure Clicked");
+                    stackBarCard.style.display = '';
+                    break;
+
+                case 'dailyRoutine':
+                    content = `
+                        <div class="col text-center">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="routineOptions" id="individualMovement" value="individualMovement" checked>
+                                <label class="form-check-label" for="individualMovement">Individual Movement</label>
+                            </div>
+                        </div>
+                        <div class="col text-center">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="routineOptions" id="groupMovement" value="groupMovement">
+                                <label class="form-check-label" for="groupMovement">Group Movement</label>
+                            </div>
+                        </div>
+                    `;
+                    
+                    container.innerHTML = content;
+                    container.style.display = content ? '' : 'none';
+
+                    setTimeout(function() {
+                        var individualMovementRadio = document.getElementById('individualMovement');
+                        var groupMovementRadio = document.getElementById('groupMovement');
+
+                        if (groupMovementRadio.checked) {
+                            window.location.href = 'index2.html'; 
+                        }
+
+                        else if (individualMovementRadio.checked) 
+                        {
+                            var task3Card = document.getElementById('task3Card');
+                            if (task3Card) 
+                            {
+                                task3Card.style.display = '';
+                            }
+                        }
+
+                        groupMovementRadio.addEventListener('change', function() {
+                            if (this.checked) {
+                                window.location.href = 'index2.html'; 
+                            }
+                        });
+                    }, 0); 
+                    break;
+
+                case 'trafficCongestion':
+
+                    var task2Card = document.getElementById('task2Card');
+                    if (task2Card) {
+                        task2Card.style.display = '';
+                    }
+                    break;
+
+                case 'distinctRegion':
+                    content = `
+                        <div class="col text-center" >
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="regionOptions" id="occupancy" value="occupancy">
+                                <label class="form-check-label" for="occupancy">Occupancy</label>
+                            </div>
+                        </div>
+                        <div class="col text-center">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="regionOptions" id="rentalCost" value="rentalCost">
+                                <label class="form-check-label" for="rentalCost">Rental Cost</label>
+                            </div>
+                        </div>
+                    `;
+
+                    var task1Card = document.getElementById('task1Card');
+                    if (task1Card) {
+                        task1Card.style.display = '';
+                    }
+                    break;
+            }
+        
+            container.innerHTML = content;
+            container.style.display = content ? '' : 'none';
+
+            attachGraphChangeListeners();
+
+        }
+
+        window.onscroll = function() {
+        var headerHeight = document.querySelector('header').offsetHeight;
+        var controlPanel = document.getElementById('controlPanelBody');
+
+        if (window.pageYOffset > headerHeight) {
+            controlPanel.classList.add('fixed-top');
+        } else {
+            controlPanel.classList.remove('fixed-top');
+        }
+    };
+
+    function attachGraphChangeListeners() {
+        const occupancyButton = document.getElementById('occupancy');
+        const rentalButton = document.getElementById('rentalCost');
+
+        if (occupancyButton) {
+            occupancyButton.addEventListener('change', () => loadGraph('occupancy'));
+            console.log("Occupancy event listener attached");
+        } else {
+            console.log("Occupancy button not found");
+        }
+
+        if (rentalButton) {
+            rentalButton.addEventListener('change', () => loadGraph('rentalCost'));
+            console.log("Rental event listener attached");
+        } else {
+            console.log("Rental button not found");
+        }
+    }
+
+    async function loadGraph(type) {
+        console.log("loadGraph called with type:", type);
+        const svgId = 'task1Svg';
+
+        const svgElement = document.getElementById(svgId);
+        if (svgElement) {
+            svgElement.innerHTML = '';
+        }
+
+        if (type === 'occupancy') {
+            const module = await import('./js/task1Occupancy.js');
+            module.default(svgId);
+        } else if (type === 'rentalCost') {
+            const module = await import('./js/task1Rental.js');
+            module.default(svgId);
+        }
+    }
+
+    </script>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark custom-material-color">
+            <a class="navbar-brand" href="#" style="font-size: 24px; font-weight: bold; margin-left: 20px;">VAST Challenge 2022: Patterns of Life</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#" data-toggle="modal" data-target="#teamModal" style="font-size: 15px; font-weight: bold; margin-right: 20px;">Meet the Team</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container-fluid mt-4" >
+        <button class="btn custom-material-color2" type="button" data-toggle="collapse" data-target="#controlPanel" aria-expanded="true" aria-controls="controlPanel" style="text-transform: capitalize;">
+            <i class="fa fa-chevron-down" id="toggleIcon"></i> Control Panel
+        </button>
+        
+        <div class="" id="controlPanel" id="controlPanelBody">
+            <div class="card card-body">
+                <form>
+                    <div class="row">
+
+                        <div class="col text-center">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="options" id="distinctRegion" value="distinctRegion" onclick="showAdditionalOptions('distinctRegion')" checked>
+                                <label class="form-check-label" for="distinctRegion">Distinct Region</label>
+                            </div>
+                        </div>
+                        <div class="col text-center">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="options" id="trafficCongestion" value="trafficCongestion" onclick="showAdditionalOptions('trafficCongestion')">
+                                <label class="form-check-label" for="trafficCongestion">Traffic Congestion</label>
+                            </div>
+                        </div>
+                        <div class="col text-center">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="options" id="expenditure" value="expenditure" onclick="showAdditionalOptions('expenditure')">
+                                <label class="form-check-label" for="expenditure">Expenditure</label>
+                            </div>
+                        </div>
+                        <div class="col text-center">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="options" id="trends" value="trends" onclick="showAdditionalOptions('trends')">
+                                <label class="form-check-label" for="trends">City Trends</label>
+                            </div>
+                        </div>
+                        <div class="col text-center">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="options" id="dailyRoutine" value="dailyRoutine" onclick="showAdditionalOptions('dailyRoutine')">
+                                <label class="form-check-label" for="dailyRoutine">Daily Routine</label>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="row mt-4" id="additionalOptions" style="display: none;">
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container-fluid mt-4">
+
+        <div class="row">
+
+            <div class="col-md-12 mt-4">
+                <div id="main-container"></div>
+            </div>
+
+            <div class="col-md-12 mt-0">
+                <div class="card" id="stackBarCard" style="display: none;">
+                    <div class="card-body svgContainer" style="display: flex; align-items: center; justify-content: center;">
+                        <svg id="task2Svg" width="1500" height="700"></svg>
+                        <div id="tooltip" class="tooltip" style="opacity:0;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-12 mt-0">
+                <div class="card" id="lineTrendCard" style="display: none;">
+                    <div class="card-body">
+                        <div class="container">
+                            <div>
+                                <label for="graphTypeSelector" class="bmd-label-floating" style="font-weight: bold;">Select Graph:</label>
+                                <div class="bmd-form-group">
+                                    <select class="form-control" id="graphTypeSelector" onchange="updateGraph()">
+                                        <option value="social">Social Interaction</option>
+                                        <option value="travel">Travel Pattern</option>
+                                        <option value="checkin">CheckIn Trends</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div style="margin-top: 10px; margin-bottom: 10px;" id="patternSelector">
+                                <label for="graphFrequencySelector" class="bmd-label-floating" style="font-weight: bold;">Select Pattern:</label>
+                                <div class="bmd-form-group">
+                                    <select class="form-control" id="graphFrequencySelector" onchange="updateGraph()">
+                                        <option value="daily">Daily</option>
+                                        <option value="monthly">Monthly</option>
+                                    </select>
+                                </div>
+                            </div>  
+
+                            <div style="margin-top: 10px; margin-bottom: 10px; display: none;" id="trendLocationSelector">
+                                <label for="trendSelector" class="bmd-label-floating" style="font-weight: bold;">Select Location:</label>
+                                <div class="bmd-form-group">
+                                    <select class="form-control" id="trendSelector" onchange="updateGraph()">
+                                        <option value="Pub">Pub</option>
+                                        <option value="Apartment">Apartment</option>
+                                        <option value="Restaurant">Restaurant</option>
+                                        <option value="Workplace">Workplace</option>
+                                    </select>
+                                </div>
+                            </div>  
+                              
+                            <div id="myDataVis"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="modal fade" id="teamModal" tabindex="-1" role="dialog" aria-labelledby="teamModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document"> 
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="teamModalLabel">Team Information</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="container">
+                        <div class="row">
+                            
+                            <div class="col-md-4 text-center">
+                                <img src="/misc/team/1.jpeg" class="rounded-circle mb-3" alt="Team Member 1" style="width: 140px; height: 140px;">
+                                <h6>Pravin Tiwari</h6>
+                            </div>
+                            
+                            <div class="col-md-4 text-center">
+                                <img src="/misc/team/2.jpeg" class="rounded-circle mb-3" alt="Team Member 1" style="width: 140px; height: 140px;">
+                                <h6>Harsh Tiwari</h6>
+                            </div>
+                            
+                            <div class="col-md-4 text-center">
+                                <img src="/misc/team/3.jpeg" class="rounded-circle mb-3" alt="Team Member 1" style="width: 140px; height: 140px;">
+                                <h6>Yashi Agnihotri</h6>
+                            </div>
+                            
+                            <div class="col-md-4 text-center">
+                                <img src="/misc/team/4.jpeg" class="rounded-circle mb-3" alt="Team Member 1" style="width: 140px; height: 140px;">
+                                <h6>Ashrith Sridhar</h6>
+                            </div>
+                            
+                            <div class="col-md-4 text-center">
+                                <img src="/misc/team/5.jpeg" class="rounded-circle mb-3" alt="Team Member 1" style="width: 140px; height: 140px;">
+                                <h6>Ramya Akella</h6>
+                            </div>
+                            
+                            <div class="col-md-4 text-center">
+                                <img src="/misc/team/6.jpeg" class="rounded-circle mb-3" alt="Team Member 1" style="width: 140px; height: 140px;">
+                                <h6>Aayush Sharma</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="page-footer font-small custom-material-color pt-4 mt-4">
+        <div class="container-fluid text-center">
+            <div class="row">
+                <div class="col-12">
+                    <link>Copyright 2023 | Data Courtesy: <a href="https://vast-challenge.github.io/2022/description.html">VAST Challenge 2022: Patterns of Life </a> | All rights reserved </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+
+</body>
+</html>

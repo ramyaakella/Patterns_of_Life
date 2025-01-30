@@ -1,0 +1,2018 @@
+[
+  {
+    "participantId": 40,
+    "timestamp": 1646092800000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 0
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646093100000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 5
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646093400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 10
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646093700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 15
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646094000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 20
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646094300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 25
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646094600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 30
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646094900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 35
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646095200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 40
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646095500000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 45
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646095800000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 50
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646096100000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 55
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646096400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 60
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646096700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 65
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646097000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 70
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646097300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 75
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646097600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 80
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646097900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 85
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646098200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 90
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646098500000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 95
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646098800000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 100
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646099100000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 105
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646099400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 110
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646099700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 115
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646100000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 120
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646100300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 125
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646100600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 130
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646100900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 135
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646101200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 140
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646101500000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 145
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646101800000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 150
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646102100000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 155
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646102400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 160
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646102700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 165
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646103000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 170
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646103300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 175
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646103600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 180
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646103900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 185
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646104200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 190
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646104500000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 195
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646104800000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 200
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646105100000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 205
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646105400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 210
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646105700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 215
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646106000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 220
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646106300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 225
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646106600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 230
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646106900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 235
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646107200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 240
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646107500000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 245
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646107800000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 250
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646108100000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 255
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646108400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 260
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646108700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 265
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646109000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 270
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646109300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 275
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646109600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 280
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646109900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 285
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646110200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 290
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646110500000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 295
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646110800000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 300
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646111100000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 305
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646111400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 310
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646111700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 315
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646112000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 320
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646112300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 325
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646112600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 330
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646112900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 335
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646113200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 340
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646113500000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 345
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646113800000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 350
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646114100000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 355
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646114400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 360
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646114700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 365
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646115000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 370
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646115300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 375
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646115600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 380
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646115900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 385
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646116200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 390
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646116500000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 395
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646116800000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 400
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646117100000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 405
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646117400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 410
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646117700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 415
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646118000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 420
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646118300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 425
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646118600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 430
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646118900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 435
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646119200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 440
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646119500000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 445
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646119800000,
+    "currentLocation": "POINT (4.502697650541232 5359.332759482619)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 450
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646120100000,
+    "currentLocation": "POINT (-22.186272789322913 4901.348222019455)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 455
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646120400000,
+    "currentLocation": "POINT (219.11410382120562 4713.391410597429)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 460
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646120700000,
+    "currentLocation": "POINT (409.40892307841887 4476.573319362019)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 465
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646121000000,
+    "currentLocation": "POINT (824.7258359185964 4508.660510457254)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 470
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646121300000,
+    "currentLocation": "POINT (1239.8653176427817 4528.198628915497)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 475
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646121600000,
+    "currentLocation": "POINT (1459.3287163729908 4272.634627638921)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 480
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646121900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 485
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646122200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 490
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646122500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 495
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646122800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 500
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646123100000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 505
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646123400000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 510
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646123700000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 515
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646124000000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 520
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646124300000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 525
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646124600000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 530
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646124900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 535
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646125200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 540
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646125500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 545
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646125800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 550
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646126100000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 555
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646126400000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 560
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646126700000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 565
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646127000000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 570
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646127300000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 575
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646127600000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 580
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646127900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 585
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646128200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 590
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646128500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 595
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646128800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 600
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646129100000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 605
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646129400000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 610
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646129700000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 615
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646130000000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 620
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646130300000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 625
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646130600000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 630
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646130900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 635
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646131200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 640
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646131500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 645
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646131800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 650
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646132100000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 655
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646132400000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 660
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646132700000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 665
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646133000000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 670
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646133300000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 675
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646133600000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 680
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646133900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 685
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646134200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 690
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646134500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 695
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646134800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 700
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646135100000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 705
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646135400000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 710
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646135700000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 715
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646136000000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 720
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646136300000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 725
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646136600000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 730
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646136900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 735
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646137200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 740
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646137500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 745
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646137800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 750
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646138100000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 755
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646138400000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 760
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646138700000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 765
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646139000000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 770
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646139300000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 775
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646139600000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 780
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646139900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 785
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646140200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 790
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646140500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 795
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646140800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 800
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646141100000,
+    "currentLocation": "POINT (1677.4145716575592 4234.689307976414)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 805
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646141400000,
+    "currentLocation": "POINT (1539.906186102109 4053.4310977462205)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 810
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646141700000,
+    "currentLocation": "POINT (1397.7209843335115 4011.7965965889684)",
+    "currentMode": "AtRestaurant",
+    "minutes_from_midnight": 815
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646142000000,
+    "currentLocation": "POINT (1397.7209843335115 4011.7965965889684)",
+    "currentMode": "AtRestaurant",
+    "minutes_from_midnight": 820
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646142300000,
+    "currentLocation": "POINT (1397.7209843335115 4011.7965965889684)",
+    "currentMode": "AtRestaurant",
+    "minutes_from_midnight": 825
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646142600000,
+    "currentLocation": "POINT (1397.7209843335115 4011.7965965889684)",
+    "currentMode": "AtRestaurant",
+    "minutes_from_midnight": 830
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646142900000,
+    "currentLocation": "POINT (1407.7107695149243 4010.4574815269225)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 835
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646143200000,
+    "currentLocation": "POINT (1751.6446208675727 4087.792675610414)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 840
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646143500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 845
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646143800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 850
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646144100000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 855
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646144400000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 860
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646144700000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 865
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646145000000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 870
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646145300000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 875
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646145600000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 880
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646145900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 885
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646146200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 890
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646146500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 895
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646146800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 900
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646147100000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 905
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646147400000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 910
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646147700000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 915
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646148000000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 920
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646148300000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 925
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646148600000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 930
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646148900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 935
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646149200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 940
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646149500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 945
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646149800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 950
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646150100000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 955
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646150400000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 960
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646150700000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 965
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646151000000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 970
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646151300000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 975
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646151600000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 980
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646151900000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 985
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646152200000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 990
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646152500000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 995
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646152800000,
+    "currentLocation": "POINT (1667.4247864761464 4236.02842303846)",
+    "currentMode": "AtWork",
+    "minutes_from_midnight": 1000
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646153100000,
+    "currentLocation": "POINT (1677.4145716575592 4234.689307976414)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1005
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646153400000,
+    "currentLocation": "POINT (1358.0161520670097 4287.021465438832)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1010
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646153700000,
+    "currentLocation": "POINT (1138.2191455197094 4537.690450694841)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1015
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646154000000,
+    "currentLocation": "POINT (726.9222828093466 4483.296024221261)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1020
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646154300000,
+    "currentLocation": "POINT (400.20857018746005 4570.290912715732)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1025
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646154600000,
+    "currentLocation": "POINT (210.55549774175208 4815.364372091226)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1030
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646154900000,
+    "currentLocation": "POINT (-34.78050349015438 4981.0124649669915)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1035
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646155200000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 1040
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646155500000,
+    "currentLocation": "POINT (4.502697650541232 5359.332759482619)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1045
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646155800000,
+    "currentLocation": "POINT (-63.96339453370246 4899.478793471086)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1050
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646156100000,
+    "currentLocation": "POINT (-225.57953294293048 4653.916377673746)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1055
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646156400000,
+    "currentLocation": "POINT (-153.29803362677015 4245.647796338232)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1060
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646156700000,
+    "currentLocation": "POINT (-381.71633543160704 4190.603617362877)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1065
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646157000000,
+    "currentLocation": "POINT (-445.8530609269867 3944.8359868520038)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1070
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646157300000,
+    "currentLocation": "POINT (-537.7921160035762 3652.9837565832436)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1075
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646157600000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1080
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646157900000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1085
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646158200000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1090
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646158500000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1095
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646158800000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1100
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646159100000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1105
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646159400000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1110
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646159700000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1115
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646160000000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1120
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646160300000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1125
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646160600000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1130
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646160900000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1135
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646161200000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1140
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646161500000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1145
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646161800000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1150
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646162100000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1155
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646162400000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1160
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646162700000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1165
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646163000000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1170
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646163300000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1175
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646163600000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1180
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646163900000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1185
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646164200000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1190
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646164500000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1195
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646164800000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1200
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646165100000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1205
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646165400000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1210
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646165700000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1215
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646166000000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1220
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646166300000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1225
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646166600000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1230
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646166900000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1235
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646167200000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1240
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646167500000,
+    "currentLocation": "POINT (-501.42676062779447 3551.572638649489)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1245
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646167800000,
+    "currentLocation": "POINT (-445.58215795302203 3943.0740617322763)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1250
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646168100000,
+    "currentLocation": "POINT (-381.97758001224605 4192.367000423337)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1255
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646168400000,
+    "currentLocation": "POINT (-153.19710474207662 4243.868026153893)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1260
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646168700000,
+    "currentLocation": "POINT (-225.82810859379845 4652.151164175433)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1265
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646169000000,
+    "currentLocation": "POINT (-65.74543600983408 4899.433003448409)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1270
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646169300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 1275
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646169600000,
+    "currentLocation": "POINT (4.502697650541232 5359.332759482619)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1280
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646169900000,
+    "currentLocation": "POINT (-63.96339453370246 4899.478793471086)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1285
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646170200000,
+    "currentLocation": "POINT (-225.57953294293048 4653.916377673746)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1290
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646170500000,
+    "currentLocation": "POINT (-153.29803362677015 4245.647796338232)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1295
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646170800000,
+    "currentLocation": "POINT (-381.71633543160704 4190.603617362877)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1300
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646171100000,
+    "currentLocation": "POINT (-445.8530609269867 3944.8359868520038)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1305
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646171400000,
+    "currentLocation": "POINT (-537.7921160035762 3652.9837565832436)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1310
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646171700000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1315
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646172000000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1320
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646172300000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1325
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646172600000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1330
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646172900000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1335
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646173200000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1340
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646173500000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1345
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646173800000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1350
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646174100000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1355
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646174400000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1360
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646174700000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1365
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646175000000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1370
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646175300000,
+    "currentLocation": "POINT (-511.4165458092073 3552.911753711535)",
+    "currentMode": "AtRecreation",
+    "minutes_from_midnight": 1375
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646175600000,
+    "currentLocation": "POINT (-501.42676062779447 3551.572638649489)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1380
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646175900000,
+    "currentLocation": "POINT (-445.58215795302203 3943.0740617322763)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1385
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646176200000,
+    "currentLocation": "POINT (-381.97758001224605 4192.367000423337)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1390
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646176500000,
+    "currentLocation": "POINT (-153.19710474207662 4243.868026153893)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1395
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646176800000,
+    "currentLocation": "POINT (-225.82810859379845 4652.151164175433)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1400
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646177100000,
+    "currentLocation": "POINT (-65.74543600983408 4899.433003448409)",
+    "currentMode": "Transport",
+    "minutes_from_midnight": 1405
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646177400000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 1410
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646177700000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 1415
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646178000000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 1420
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646178300000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 1425
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646178600000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 1430
+  },
+  {
+    "participantId": 40,
+    "timestamp": 1646178900000,
+    "currentLocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentMode": "AtHome",
+    "minutes_from_midnight": 1435
+  }
+]
